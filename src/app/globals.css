@@ -22,7 +22,6 @@ html {
   max-width: 100%;
   overflow-x: hidden;
   background: var(--base);
-  overscroll-behavior-y: none;
 }
 
 body {
@@ -31,7 +30,6 @@ body {
   font-family: 'Space Grotesk', system-ui, sans-serif;
   overflow-x: hidden;
   max-width: 100%;
-  overscroll-behavior-y: none;
 }
 
 /* Prevent any accidental horizontal scrolling */
